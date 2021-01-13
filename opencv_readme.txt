@@ -64,7 +64,7 @@ int main()
 
 {
    
- Mat src = imread("C:\\Users\\RAVI\\Desktop/elephant.jpg");  //reading image file in mat object
+ Mat src = imread("C:\\Users\\Public\\Pictures\\Sample Pictures/Penguins.jpg");  //reading image file in mat object
     
     
  Mat dst;      //Mat object for output image file
