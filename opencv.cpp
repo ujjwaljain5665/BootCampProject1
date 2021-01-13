@@ -1,4 +1,4 @@
-//SUDOKU---Ujjwal Jain_19011313
+//OPENCV---Ujjwal Jain_19011313
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
 #include <iostream>
